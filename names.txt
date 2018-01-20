@@ -1,0 +1,51 @@
+Main Gate
+Junction Near Lover's Lane
+Junction To Campus
+Junction To A Block
+A Block Entrance
+ACAD Circle 1
+ACAD Circle 2
+Girls Hostel Junction 1
+Girls Hostel Junction 2
+Boys Hostel Junction 1
+Boys Hostel Junction 2
+Football Ground
+Meera Bhawan
+Malviya Bhawan
+Bru G
+Mess 2
+Lover's Lane
+Boys Malviya
+Infinity Circle 1
+Infinity Circle 2
+Amul Parlour
+Entrance To CP 1
+Entrance To CP 2
+Basketball Court
+Tennis Court
+B Block 1
+B Block 2
+C Block
+D Block
+E Block
+Workshop
+Bru B
+Gandhi Bhawan
+Krishna Bhawan
+Mess 1
+Budh Bhawan
+Ram Bhawan
+Vyas Bhawan
+Shankar Bhawan
+Auditorium
+Cafeteria
+Lectre Theatre Complex LTC
+F102
+F105
+Open Air Theatre OAT
+Garden
+Volleyball Court
+Medical Centre AMC
+F109
+G Block
+Library

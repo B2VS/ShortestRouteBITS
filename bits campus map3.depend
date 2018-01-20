@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1446281592 source:c:\users\vedic\desktop\coding\bits campus map3\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<math.h>
+	<limits.h>
+
